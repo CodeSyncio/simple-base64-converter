@@ -1,0 +1,7 @@
+§
+2
+True
+
+line 1 = symbol to return to main screen
+line 2 = amount of sec between restarting function
+line 3 = Copy text to clipboard or not (True or False)
